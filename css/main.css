@@ -128,3 +128,10 @@ button:hover {
     width: 770px;
     text-align: center;
 }
+
+footer {
+    background-color: black;
+    padding: 150px 20px;
+    color: aliceblue;
+    text-align: center;
+}
