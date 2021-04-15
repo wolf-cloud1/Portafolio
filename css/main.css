@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    border: solid 1px #000;
+    border: solid 1px #000; 
 }
 
 body {
@@ -87,4 +87,44 @@ button:hover {
 #main-container header main .image {
     text-align: right;
     width: 700px;
+}
+
+/* ******************************* */
+
+.layout{
+    width: 1280px;
+    margin: 250px auto;
+}
+
+#main-container .section .layout div{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#main-container .section .layout h3{
+    font-size: 48px;
+    padding: 25px 0;
+}
+
+#main-container .section .layout p{
+    padding: 25px 0;
+    line-height: 32px;
+}
+
+#main-container .section .layout-left .text{
+    width: 500px;
+}
+
+#main-container .section .layout-left .image{
+    width: 770px;
+    text-align: right;
+}
+
+#main-container .section .layout-right .text{
+    width: 500px;
+}
+
+#main-container .section .layout-right .image{
+    width: 770px;
+    text-align: center;
 }
