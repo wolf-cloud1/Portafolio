@@ -1,0 +1,6 @@
+Calculadora
+Implementar el modo nocturno (dark mode) https://www.youtube.com/watch?v=2Nmi1sXu12U
+conversor de medidas
+chatbot
+tres en linea (juego)
+deteccion de edad y genero
